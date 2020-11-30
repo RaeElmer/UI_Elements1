@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UI Elements 1</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="next_page">NEXT PAGE</string>
+    <string name="phone_number">Phone number</string>
+    <string name="add_phone_number">Add phone number</string>
+    <string name="pick_a_birth_date">pick a birth date</string>
+    <string name="date">Date</string>
+    <string name="complete_sign_up">Complete Sign Up</string>
+</resources>
